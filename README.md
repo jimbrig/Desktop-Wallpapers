@@ -24,6 +24,13 @@ My Current Wallpaper Setup is this:
 
 *Credits to Rainmeter's Soonex Clock Skin for the Desktop Widget*
 
+## Example Terminal Background
+
+For example, for Kali Linux here's what it would look like:
+
+![image](https://user-images.githubusercontent.com/32652297/146700713-971a75a2-6bc3-45ee-986e-64c26af23a0e.png)
+
+
 ***
 
 Jimmy Briggs | 2022
