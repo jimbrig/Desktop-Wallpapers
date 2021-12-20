@@ -6,6 +6,10 @@ All notable changes to this project will be documented in this file.
 ### Documentation
 
 - Create README
+- Create CHANGLOG
+- Update README
+- Terminal Backgrounds README
+- Enhance terminal readme
 
 ### Features
 
