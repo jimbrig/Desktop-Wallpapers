@@ -1,5 +1,7 @@
 # Terminal Backgrounds
 
+> PS My favorite is [Kali Linux](kali.png) ☑️
+
 I use a lot of different shell's in my Windows Terminal:
 
 ![image](https://user-images.githubusercontent.com/32652297/146700353-c05805be-c84b-42c7-b062-c0665e785b84.png)
