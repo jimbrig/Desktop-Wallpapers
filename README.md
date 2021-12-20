@@ -2,6 +2,10 @@
 
 This repo simply houses/backs up my various desktop wallpapers (mostly windows specific) from over time.
 
+See the [Changelog](CHANGELOG.md) for latest updates to the repo.
+
+## Structure
+
 The directories are split out into:
 
 - [Win11](Win11): Windows 11 specific wallpapers
