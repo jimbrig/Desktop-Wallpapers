@@ -4,6 +4,8 @@ This repo simply houses/backs up my various desktop wallpapers (mostly windows s
 
 See the [Changelog](CHANGELOG.md) for latest updates to the repo.
 
+See my [Shell Specific Backgrounds](Terminal) for how I implement these into Windows Terminal.
+
 ## Structure
 
 The directories are split out into:
